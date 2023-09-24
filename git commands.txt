@@ -1,0 +1,9 @@
+git config --global user.email
+
+git config --global user.name 
+
+git restore --staged <<staged-file-name-to-unstage-it>>
+
+git add . adds all the files or just name the file and it'll be added
+
+git commit "message will add all the files in the staging area"
